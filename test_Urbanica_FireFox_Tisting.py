@@ -296,20 +296,6 @@ class TestTestUrbanicaFireFoxTisting():
                                  "body > div.page-wrapper > header > div > div.header_container.ltr > div.header_right.inline.middle.padding_hf_h.padding_v.rtl.w_33.padding_hf > div.header_cart.inline.middle.padding_hf.sp_padding_hf_r.sp_padding_qt > div > div > a").click()
         time.sleep(10)
 
-        # q1 = self.driver.find_element(By.CSS_SELECTOR,
-        #                               "#product_mini_cart_8428971 > div.prod_price.center.inline.middle.padding_hf.w_25 > div > span")
-        # q1.text
-        #
-        # time.sleep(10)
-        # self.driver.find_element(By.CSS_SELECTOR, "#cart-item-8428766-qty").click()
-        # time.sleep(10)
-        # self.driver.find_element(By.CSS_SELECTOR, "#cart-item-8428766-qty > option:nth-child(2)").click()
-        # time.sleep(10)
-        # q2 = self.driver.find_element(By.CSS_SELECTOR,
-        #                               "#product_mini_cart_8428766 > div.prod_price.center.inline.middle.padding_hf.w_25 > div > span")
-        # q2.text
-        # assert q1 != q2 == False
-        # time.sleep(4)
 
         time.sleep(10)
         self.driver.find_element(By.CSS_SELECTOR,

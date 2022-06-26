@@ -1,0 +1,41 @@
+1656247667283	geckodriver	INFO	Listening on 127.0.0.1:61184
+1656247670366	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61185" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rawad\\AppData\\Local\\Temp\\rust_mozprofileYOOnAY"
+1656247671076	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61185
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rawad\\AppData\\Local\\Temp\\rust_mozprofileYOOnAY\\search.json.mozlz4", (void 0)))
+1656247673311	Marionette	INFO	Listening on port 61208
+DevTools listening on ws://localhost:61185/devtools/browser/bd330104-ddee-4763-89e6-390f78ae7b69
+Read port: 61208
+1656247673445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202288830, line 34: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202288830, line 94: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202288830, line 102: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202288830, line 102: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202288830, line 102: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202288830, line 102: unreachable code after return statement
+1656247725378	Marionette	INFO	Stopped listening on port 61208
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "--remote-debugging-port" "61325" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rawad\\AppData\\Local\\Temp\\rust_mozprofileCoN0ZO"
+1656247699627	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61325
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rawad\\AppData\\Local\\Temp\\rust_mozprofileCoN0ZO\\search.json.mozlz4", (void 0)))
+1656247701328	Marionette	INFO	Listening on port 61400
+DevTools listening on ws://localhost:61325/devtools/browser/5978d4d4-a560-4a3a-b851-0930cf83c326
+Read port: 61400
+1656247701441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656247724615	Marionette	INFO	Stopped listening on port 61400
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU1656247728036	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rawad\\AppData\\Local\\Temp\\rust_mozprofilespUg8Z"
+1656247728505	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:61515
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rawad\\AppData\\Local\\Temp\\rust_mozprofilespUg8Z\\search.json.mozlz4", (void 0)))
+1656247730362	Marionette	INFO	Listening on port 61542
+DevTools listening on ws://localhost:61515/devtools/browser/a313bf40-a534-459e-8727-126f578586c2
+Read port: 61542
+1656247730465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656247731673	Marionette	INFO	Stopped listening on port 61542
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656247732617	geckodriver	INFO	Listening on 127.0.0.1:61554
+::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+

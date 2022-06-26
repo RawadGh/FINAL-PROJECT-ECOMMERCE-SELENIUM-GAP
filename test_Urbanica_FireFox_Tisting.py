@@ -1,46 +1,8 @@
-import driver
-import time
-import warnings
-import pytest
 
-from selenium import webdriver
-from selenium.webdriver import Keys
-from selenium.webdriver.chrome.service import Service as ChromeService
-from selenium.webdriver.firefox.service import Service as FirefoxService
-
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.wait import WebDriverWait
-from selenium.webdriver.firefox.options import Options as FireFoxOptions
-
-
-import pytest
-import time
-import json
-from selenium import webdriver
-from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
-from selenium.webdriver.support import expected_conditions
-from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 import time
-import self as self
-import pytest
-from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome import webdriver
-
-from selenium.webdriver.chrome.service import Service as ChromeService
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.wait import WebDriverWait
-from selenium import webdriver
 from faker import Faker
-
-import string
-import random  # define the random module
-
-
-
 from selenium.webdriver.chrome import webdriver
 from selenium import webdriver
 from selenium.webdriver.firefox.service import Service as FirefoxService
@@ -55,8 +17,8 @@ class TestTestUrbanicaFireFoxTisting():
         ser_firefox = FirefoxService(Firefox_driver_binary)
         self.driver = webdriver.Firefox(service=ser_firefox)
 
-    # def teardown_method(self, method):
-    #     self.driver.quit()
+    def teardown_method(self, method):
+        self.driver.quit()
 
     def test_testInvalidEmailAddress(self):
         self.driver.get("https://www.urbanica-wh.com/")

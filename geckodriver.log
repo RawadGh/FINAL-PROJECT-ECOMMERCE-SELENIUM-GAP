@@ -39,3 +39,77 @@ console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkErr
 1656247732617	geckodriver	INFO	Listening on 127.0.0.1:61554
 ::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
 
+1656251731081	geckodriver	INFO	Listening on 127.0.0.1:56467
+1656251734143	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56468" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rawad\\AppData\\Local\\Temp\\rust_mozprofile9o8xyJ"
+1656251734771	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56468
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rawad\\AppData\\Local\\Temp\\rust_mozprofile9o8xyJ\\search.json.mozlz4", (void 0)))
+1656251736946	Marionette	INFO	Listening on port 56495
+Read port: 56495
+1656251737003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:56468/devtools/browser/01f2ebfa-0ec9-4170-9bed-06fc8230867e
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 34: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 94: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 102: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 102: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 102: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 102: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.urbanica-wh.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.urbanica-wh.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.urbanica-wh.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 34: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 94: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 102: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 102: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 102: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 102: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.urbanica-wh.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.urbanica-wh.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.urbanica-wh.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.urbanica-wh.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 34: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 94: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 102: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 102: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 102: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 102: unreachable code after return statement
+1656251788253	Marionette	INFO	Stopped listening on port 56495
+1656252970078	geckodriver	INFO	Listening on 127.0.0.1:60743
+1656252973165	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60744" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rawad\\AppData\\Local\\Temp\\rust_mozprofileRMGV2o"
+1656252973800	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60744
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rawad\\AppData\\Local\\Temp\\rust_mozprofileRMGV2o\\search.json.mozlz4", (void 0)))
+1656252976069	Marionette	INFO	Listening on port 60773
+DevTools listening on ws://localhost:60744/devtools/browser/b76ad389-e79e-4661-b103-2bc8e19c2616
+Read port: 60773
+1656252976133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 34: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 94: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 102: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 102: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 102: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 102: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.urbanica-wh.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.urbanica-wh.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.urbanica-wh.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 34: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 94: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 102: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 102: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 102: unreachable code after return statement
+JavaScript warning: https://cdn.glassix.com/dist/widget.entry.min.js?v=1.0.0.367552606202260108, line 102: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.urbanica-wh.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.urbanica-wh.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.urbanica-wh.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656253016330	Marionette	INFO	Stopped listening on port 60773
